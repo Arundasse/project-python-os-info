@@ -1,6 +1,6 @@
 # project-python-os-info
 
-#objective: Create automation to display the operating system information.
+#objective: Create automation to display the operating system info
 
 # ~ Part 1: Display the OS version - if windows, display the windows details; if executed on Linux, display the Linux details.
 # ~ Reference credit: https://www.w3resource.com/python-exercises/python-basic-exercise-43.php
